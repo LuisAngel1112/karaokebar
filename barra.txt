@@ -1,1 +1,3 @@
 este es el area de barra
+
+el area de barra sirve para realizar tragos
