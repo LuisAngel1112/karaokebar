@@ -1,3 +1,5 @@
 este es el area de clientes
 
 aqui pueden estar los clientes
+
+se agregaron nuevos muebles y diseño comodo para los clientes
